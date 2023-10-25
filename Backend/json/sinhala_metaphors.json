@@ -1,0 +1,2148 @@
+[
+ {
+  "poem_index": 1,
+  "poem_name": "ගමනෙදි තණ දලු නොතලා මීකත",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "ගමනෙදි තණ දලු නොතලා මීකත",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 1,
+  "poem_name": "ගමනෙදි තණ දලු නොතලා මීකත",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "නලවන සුන්දර ගම්බද සේසත",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 1,
+  "poem_name": "ගමනෙදි තණ දලු නොතලා මීකත",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "ඔබගේ මුව පියුමෙන් මද හාසිත",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "මුව පියුමෙන්",
+  "meaning_of_metaphorical_terms": "මුව නැමැති පියුමෙන්"
+ },
+ {
+  "poem_index": 1,
+  "poem_name": "ගමනෙදි තණ දලු නොතලා මීකත",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "සුවඳින් ඔබ වෙයි මේ මිටි යාවත",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 2,
+  "poem_name": "පෙරයම් රැයේ ඉගිලී විත් අහස කුසින්",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "පෙරයම් රැයේ ඉගිලී විත් අහස කුසින්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "අහස කුසින්",
+  "meaning_of_metaphorical_terms": "අහස නැමැති කුසෙන්"
+ },
+ {
+  "poem_index": 2,
+  "poem_name": "පෙරයම් රැයේ ඉගිලී විත් අහස කුසින්",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "මා ඇඳ ළඟට ආවිට කණමැඳිරි විසින්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 2,
+  "poem_name": "පෙරයම් රැයේ ඉගිලී විත් අහස කුසින්",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "සුරතල් කරද්දී තද කොට පසුව මසින්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 2,
+  "poem_name": "පෙරයම් රැයේ ඉගිලී විත් අහස කුසින්",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "මම සැනසුනෙමි දැහැනට සම වැදුණු ලෙසින්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 3,
+  "poem_name": "ලැබුණැයි කියා මෙරටට නිදහසක ඔපේ",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "ලැබුණැයි කියා මෙරටට නිදහසක ඔපේ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 3,
+  "poem_name": "ලැබුණැයි කියා මෙරටට නිදහසක ඔපේ",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "කැබිනට් ඇමති මුව විල් මැද තඹුරු පිපේ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "මුව විල්",
+  "meaning_of_metaphorical_terms": "මුව නැමැති විල"
+ },
+ {
+  "poem_index": 3,
+  "poem_name": "ලැබුණැයි කියා මෙරටට නිදහසක ඔපේ",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "ලේ පෙර පෙරා රැකගත් සිහ කොඩිය අපේ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 3,
+  "poem_name": "ලැබුණැයි කියා මෙරටට නිදහසක ඔපේ",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "තවමත් කතිර කොඩියේ පාමුලෙහි හැපේ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 4,
+  "poem_name": "නිදහස් කුසුම අද තිබුණත් නමට පිපී",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "නිදහස් කුසුම අද තිබුණත් නමට පිපී",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "නිදහස් කුසුම",
+  "meaning_of_metaphorical_terms": "නිදහස නැමැති කුසුම"
+ },
+ {
+  "poem_index": 4,
+  "poem_name": "නිදහස් කුසුම අද තිබුණත් නමට පිපී",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "එහි රස බඹරු නොව නිලමැසි පොකුරු පිපී",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 4,
+  "poem_name": "නිදහස් කුසුම අද තිබුණත් නමට පිපී",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "අවුරුදු දිනෙහි වැලපෙනු මිස එකට හැපී",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 4,
+  "poem_name": "නිදහස් කුසුම අද තිබුණත් නමට පිපී",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "කිරිබත් කෙසෙල්ගෙඩි කුමකට කමුද අපී",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 5,
+  "poem_name": "කිරෙන් සිනිඳු වුනු සුදු පුංචි දත් දෙකක",
+  "poet": "එස්. අයි. ගමගේ",
+  "line": "කිරෙන් සිනිඳු වුනු සුදු පුංචි දත් දෙකක",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 5,
+  "poem_name": "කිරෙන් සිනිඳු වුනු සුදු පුංචි දත් දෙකක",
+  "poet": "එස්. අයි. ගමගේ",
+  "line": "පුරා හද පෙරා එන සොමි කැළුම් දත් දෙකක",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "කැළුම් දත්",
+  "meaning_of_metaphorical_terms": "දත් නැමැති කැළුම්"
+ },
+ {
+  "poem_index": 5,
+  "poem_name": "කිරෙන් සිනිඳු වුනු සුදු පුංචි දත් දෙකක",
+  "poet": "එස්. අයි. ගමගේ",
+  "line": "ආදරේ උණුහුමින්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 5,
+  "poem_name": "කිරෙන් සිනිඳු වුනු සුදු පුංචි දත් දෙකක",
+  "poet": "එස්. අයි. ගමගේ",
+  "line": "සුදු මුහුණ පිරීයයි",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 6,
+  "poem_name": "අතිගරු සාමිදරුවාණන් මහනා ම",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "අතිගරු සාමිදරුවාණන් මහනා ම",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 6,
+  "poem_name": "අතිගරු සාමිදරුවාණන් මහනා ම",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "එදවස ලියන ලද මහවංසය කා ම",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 6,
+  "poem_name": "අතිගරු සාමිදරුවාණන් මහනා ම",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "බබළයි මගේ දැයඹර ඉරහඳ තා ම",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "දැයඹර",
+  "meaning_of_metaphorical_terms": "ජාතිය නැමැති අහස"
+ },
+ {
+  "poem_index": 6,
+  "poem_name": "අතිගරු සාමිදරුවාණන් මහනා ම",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "බරවා කකුලෙනුය සිදුවුණෙ දැලි ගෑ ම",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 7,
+  "poem_name": "ගත් මිණි ගිනි තබයි රතුපෑයේ වරදින්",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "ගත් මිණි ගිනි තබයි රතුපෑයේ වරදින්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "ගත් මිණි",
+  "meaning_of_metaphorical_terms": "ග්‍රන්ථ නැමැති මැණික්"
+ },
+ {
+  "poem_index": 7,
+  "poem_name": "ගත් මිණි ගිනි තබයි රතුපෑයේ වරදින්",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "තහනම් කරයි පොත් සිංහල උගතුන්ගේ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 7,
+  "poem_name": "ගත් මිණි ගිනි තබයි රතුපෑයේ වරදින්",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "සීතාවක යුගය නැවතත් එළඹ තිබේ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 7,
+  "poem_name": "ගත් මිණි ගිනි තබයි රතුපෑයේ වරදින්",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "වස්සන් කාපියව් නොපුළුස්සා අමුවෙන්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 8,
+  "poem_name": "බිම ඇන්නවූ දෙදළින් ගෙන කඩොල් ඇතු",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "බිම ඇන්නවූ දෙදළින් ගෙන කඩොල් ඇතු",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 8,
+  "poem_name": "බිම ඇන්නවූ දෙදළින් ගෙන කඩොල් ඇතු",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "නඳිමිත් යෝදයාණගෙ ලේ උරුම සතු",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "නඳිමිත් යෝදයාණගෙ",
+  "meaning_of_metaphorical_terms": "නන්දිමිත්‍ර නැමැති යෝධයා"
+ },
+ {
+  "poem_index": 8,
+  "poem_name": "බිම ඇන්නවූ දෙදළින් ගෙන කඩොල් ඇතු",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "කපුවා සිහලයෙකි දෙව් දද සෙවණ රතු",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 8,
+  "poem_name": "බිම ඇන්නවූ දෙදළින් ගෙන කඩොල් ඇතු",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "අප රැකවරණ මෙතැනය හැම දිනෙක මතු",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 9,
+  "poem_name": "බස් මල් කැකුළ සිංහල දැය ලිය ගොමුවේ",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "බස් මල් කැකුළ සිංහල දැය ලිය ගොමුවේ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 2,
+  "metaphorical_terms": "බස් මල් කැකුළ, දැය ලිය ගොමුවේ",
+  "meaning_of_metaphorical_terms": "බස් මල් කැකුළ(භාෂාව නැමැති මල් කැකුළ)\nදැය ලිය ගොමුවේ(ජාතිය නැමැති මල් වත්තේ)"
+ },
+ {
+  "poem_index": 9,
+  "poem_name": "බස් මල් කැකුළ සිංහල දැය ලිය ගොමුවේ",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "උතුරෙන් නගින ලැව්ගින්නක් වෙත යොමුවේ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 9,
+  "poem_name": "බස් මල් කැකුළ සිංහල දැය ලිය ගොමුවේ",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "පාලකයන්ය මේ ගින්නට තෙල දැමුවේ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 9,
+  "poem_name": "බස් මල් කැකුළ සිංහල දැය ලිය ගොමුවේ",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "පවසමු නඩුව අපි දොළසත් දෙවි හමුවේ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 10,
+  "poem_name": "ලිය තඹර වත දෙ ස",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "ලිය තඹර වත දෙ ස",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "තඹර වත",
+  "meaning_of_metaphorical_terms": "ශරීරය නැමැති නෙළුම"
+ },
+ {
+  "poem_index": 10,
+  "poem_name": "ලිය තඹර වත දෙ ස",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "විහිදන නයන් බිහි රැ ස",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 10,
+  "poem_name": "ලිය තඹර වත දෙ ස",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "තුනු දනන් සර තැ ස",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 10,
+  "poem_name": "ලිය තඹර වත දෙ ස",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "නිවා සැනසෙති සවස වෙරළ ස",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 11,
+  "poem_name": "අවරෙහි දවස් ප ති",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "අවරෙහි දවස් ප ති",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 11,
+  "poem_name": "අවරෙහි දවස් ප ති",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "වැද අඳුරු ගස් ව ති",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 11,
+  "poem_name": "අවරෙහි දවස් ප ති",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "පිනි මුතුද රැස් වෙ ති",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "පිනි මුතුද",
+  "meaning_of_metaphorical_terms": "පිනි නැමැති මුතු"
+ },
+ {
+  "poem_index": 11,
+  "poem_name": "අවරෙහි දවස් ප ති",
+  "poet": "පී. බී. අල්විස් පෙරේරා",
+  "line": "මෙයින් නැවතුණි මගෙ සරස්ව ති",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 12,
+  "poem_name": "ජය නිවසට කඳවාගෙන සුන්දර සරසවි සී දේ",
+  "poet": "ආතර්. ඇම්. ද අල්විස්",
+  "line": "ජය නිවසට කඳවාගෙන සුන්දර සරසවි සී දේ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 0,
+  "metaphorical_terms": "ජය නිවසට"
+ },
+ {
+  "poem_index": 12,
+  "poem_name": "ජය නිවසට කඳවාගෙන සුන්දර සරසවි සී දේ",
+  "poet": "ආතර්. ඇම්. ද අල්විස්",
+  "line": "විය සමඟින් සොම්නස් වී බැසගත් පෙම් කිරි මූ දේ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "පෙම් කිරි මූ දේ",
+  "meaning_of_metaphorical_terms": "ප්‍රේමය නැමැති කිරි මුහුද"
+ },
+ {
+  "poem_index": 12,
+  "poem_name": "ජය නිවසට කඳවාගෙන සුන්දර සරසවි සී දේ",
+  "poet": "ආතර්. ඇම්. ද අල්විස්",
+  "line": "පිය කිවිඳුන්ගේ මුව'ගින් ගිලිහෙන කෝකිල නා දේ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "කිවිඳුන්ගේ මුව'ගින් ගිලිහෙන කෝකිල නා දේ",
+  "meaning_of_metaphorical_terms": "කවියන්ගෙන් පිටවන කවි නැමැති ‍කෝකිල නාදය"
+ },
+ {
+  "poem_index": 12,
+  "poem_name": "ජය නිවසට කඳවාගෙන සුන්දර සරසවි සී දේ",
+  "poet": "ආතර්. ඇම්. ද අල්විස්",
+  "line": "ලිය වී මතු ඉතිහාසයෙ සාහිතයට වැඩ සෑ දේ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 13,
+  "poem_name": "උතුම් කොළඹ කවි සමාජෙ සැළලිහිණියෙකුගෙ ලීලේ",
+  "poet": "ආතර්. ඇම්. ද අල්විස්",
+  "line": "උතුම් කොළඹ කවි සමාජෙ සැළලිහිණියෙකුගෙ ලීලේ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 13,
+  "poem_name": "උතුම් කොළඹ කවි සමාජෙ සැළලිහිණියෙකුගෙ ලීලේ",
+  "poet": "ආතර්. ඇම්. ද අල්විස්",
+  "line": "පතුරා ජය මංගල හඬ ජාතික දින සැන්දෑ කාලේ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 13,
+  "poem_name": "උතුම් කොළඹ කවි සමාජෙ සැළලිහිණියෙකුගෙ ලීලේ",
+  "poet": "ආතර්. ඇම්. ද අල්විස්",
+  "line": "මිතුරන් හමුවෙහි පළඳවමින් මේ කව් කුසුම් මාලේ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "කව් කුසුම් මාලේ",
+  "meaning_of_metaphorical_terms": "කවි නැමැති මල් මාලය"
+ },
+ {
+  "poem_index": 13,
+  "poem_name": "උතුම් කොළඹ කවි සමාජෙ සැළලිහිණියෙකුගෙ ලීලේ",
+  "poet": "ආතර්. ඇම්. ද අල්විස්",
+  "line": "මතු ලැබෙව් පතනෙමි මට සරසවි රැජිනියගෙ ආලේ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 14,
+  "poem_name": "උල්පත වනැයි රස කවියට නම් ලැබුව",
+  "poet": "මිදෙණියේ විමලානන්ද",
+  "line": "උල්පත වනැයි රස කවියට නම් ලැබුව",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 14,
+  "poem_name": "උල්පත වනැයි රස කවියට නම් ලැබුව",
+  "poet": "මිදෙණියේ විමලානන්ද",
+  "line": "කල්යාණ වූ කවි සබ මුල්ගල තැබුව",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 14,
+  "poem_name": "උල්පත වනැයි රස කවියට නම් ලැබුව",
+  "poet": "මිදෙණියේ විමලානන්ද",
+  "line": "අල්විස් පෙරේරා මිතු කිවි මල ලොඹුව",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "කිවි මල",
+  "meaning_of_metaphorical_terms": "කවියා නැමැති මල"
+ },
+ {
+  "poem_index": 14,
+  "poem_name": "උල්පත වනැයි රස කවියට නම් ලැබුව",
+  "poet": "මිදෙණියේ විමලානන්ද",
+  "line": "ඇල්මෙන් රැකගනීවා බඹුවගෙ අඹුව",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 15,
+  "poem_name": "සාහිත කිරි සයු රු",
+  "poet": "ජේ. සී. ජයතිලක",
+  "line": "සාහිත කිරි සයු රු",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "සාහිත කිරි සයු රු",
+  "meaning_of_metaphorical_terms": "සාහිත්‍යය නැමැති කිරි සයුර"
+ },
+ {
+  "poem_index": 15,
+  "poem_name": "සාහිත කිරි සයු රු",
+  "poet": "ජේ. සී. ජයතිලක",
+  "line": "ඔද කළ සඳ රැසක් වි රු",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 15,
+  "poem_name": "සාහිත කිරි සයු රු",
+  "poet": "ජේ. සී. ජයතිලක",
+  "line": "අගනුවර කිවිව රු",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 15,
+  "poem_name": "සාහිත කිරි සයු රු",
+  "poet": "ජේ. සී. ජයතිලක",
+  "line": "රකිත්වා! ලොව රකින දෙවිව රු",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 16,
+  "poem_name": "අවුරුදු දින සව ස",
+  "poet": "ජේ. සී. ජයතිලක",
+  "line": "අවුරුදු දින සව ස",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 16,
+  "poem_name": "අවුරුදු දින සව ස",
+  "poet": "ජේ. සී. ජයතිලක",
+  "line": "අගනුවර කව් මිණි රැ ස",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "කව් මිණි",
+  "meaning_of_metaphorical_terms": "කවි නැමැති මැණික්"
+ },
+ {
+  "poem_index": 16,
+  "poem_name": "අවුරුදු දින සව ස",
+  "poet": "ජේ. සී. ජයතිලක",
+  "line": "කැටි වී ජය නිව ස",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 16,
+  "poem_name": "අවුරුදු දින සව ස",
+  "poet": "ජේ. සී. ජයතිලක",
+  "line": "ඔකඳ සයුරක් වැන්න පුර ප ස",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 17,
+  "poem_name": "මෙපුර වර සරන වරඟන මුව කම ල",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "මෙපුර වර සරන වරඟන මුව කම ල",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "මුව කමල",
+  "meaning_of_metaphorical_terms": "මුහුණ නැමැති නෙළුම"
+ },
+ {
+  "poem_index": 17,
+  "poem_name": "මෙපුර වර සරන වරඟන මුව කම ල",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "අඹර නිති සරන සිදුකැල දැක පැකි ල",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 17,
+  "poem_name": "මෙපුර වර සරන වරඟන මුව කම ල",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "තඹර කර කරින් වෙහෙසව වී තැවු ල",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 17,
+  "poem_name": "මෙපුර වර සරන වරඟන මුව කම ල",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "නොහැර සැතපු වැනි ලෙල නො මඳ දද පෙ ළ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 18,
+  "poem_name": "පුරඟන මුව කම ල",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "පුරඟන මුව කම ල",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "මුව කමල",
+  "meaning_of_metaphorical_terms": "මුහුණ නැමැති නෙළුම"
+ },
+ {
+  "poem_index": 18,
+  "poem_name": "පුරඟන මුව කම ල",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "නරඹා පැකිලි සිදු කැ ල",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 18,
+  "poem_name": "පුරඟන මුව කම ල",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "නුබ රිවි තෙද තැව් ල",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 18,
+  "poem_name": "පුරඟන මුව කම ල",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "පැමිණ සැතපුණු සදිසි දද වැ ල",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 19,
+  "poem_name": "තඹර වතද මින්නෙත සෙවෙලැති වර ලී",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "තඹර වතද මින්නෙත සෙවෙලැති වර ලී",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "තඹර වතද",
+  "meaning_of_metaphorical_terms": "ශරීරය නැමැති නෙළුම"
+ },
+ {
+  "poem_index": 19,
+  "poem_name": "තඹර වතද මින්නෙත සෙවෙලැති වර ලී",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "බමර බැම උපුල රත රත'දර උදු ලී",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "බමර බැම උපුල",
+  "meaning_of_metaphorical_terms": "බමර බැම නැමැති ‍මහනෙල්"
+ },
+ {
+  "poem_index": 19,
+  "poem_name": "තඹර වතද මින්නෙත සෙවෙලැති වර ලී",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "තිසර තන විසුල රැළ පෙළ කර ළක ලී",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "තිසර තන",
+  "meaning_of_metaphorical_terms": "හංසයා නැමැති පියොවුර"
+ },
+ {
+  "poem_index": 19,
+  "poem_name": "තඹර වතද මින්නෙත සෙවෙලැති වර ලී",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "මෙපුර ශෙඳිඟුවිල් වරඟන සිරි කිය ලී",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 20,
+  "poem_name": "දෙනයන උපුල බිඟු රොද දෙ බැම සුඳිමු තු",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "දෙනයන උපුල බිඟු රොද දෙ බැම සුඳිමු තු",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "දෙනයන උපුල",
+  "meaning_of_metaphorical_terms": "දෙඇස් නැමැති මානෙල්"
+ },
+ {
+  "poem_index": 20,
+  "poem_name": "දෙනයන උපුල බිඟු රොද දෙ බැම සුඳිමු තු",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "පිරිතන රනතිසර බිබු පල ලවන් ර තු",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "පිරිතන රනතිසර",
+  "meaning_of_metaphorical_terms": "පිරුණු පියොවුරු නැමැති රන් හංසයෝ"
+ },
+ {
+  "poem_index": 20,
+  "poem_name": "දෙනයන උපුල බිඟු රොද දෙ බැම සුඳිමු තු",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "රඹ'රන වටොර දෙන දද සන් තඳින් යු තු",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 20,
+  "poem_name": "දෙනයන උපුල බිඟු රොද දෙ බැම සුඳිමු තු",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "වරඟන සිරිගතිය මෙහි සැදි උයන් ව තු",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 21,
+  "poem_name": "පෑ ලා දත් කැකුළු මැද සිනිඳු ඔප න ඟා",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "පෑ ලා දත් කැකුළු මැද සිනිඳු ඔප න ඟා",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "දත් කැකුළු",
+  "meaning_of_metaphorical_terms": "දත් නැමැති මල් කැකුළු"
+ },
+ {
+  "poem_index": 21,
+  "poem_name": "පෑ ලා දත් කැකුළු මැද සිනිඳු ඔප න ඟා",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "පෑ ලා බැඳන මුදුනට කර සිඟා සු ඟා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 21,
+  "poem_name": "පෑ ලා දත් කැකුළු මැද සිනිඳු ඔප න ඟා",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "ලෝ ලා වම කෙළින රනකුරුසෙ මනර ඟා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 21,
+  "poem_name": "පෑ ලා දත් කැකුළු මැද සිනිඳු ඔප න ඟා",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "ලී ලා දැක බැරිය යනු බොළඳ කොමල ඟා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 22,
+  "poem_name": "හස තනිදු වර නෙ ති",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "හස තනිදු වර නෙ ති",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 22,
+  "poem_name": "හස තනිදු වර නෙ ති",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "බමර බැම පුල් සර ව ති",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 22,
+  "poem_name": "හස තනිදු වර නෙ ති",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "නිල් සෙවෙල් වරලැ ති",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "නිල් සෙවෙල් වරලැ ති",
+  "meaning_of_metaphorical_terms": "හිස කෙස් නැමැති නිල් සෙවෙල ඇති"
+ },
+ {
+  "poem_index": 22,
+  "poem_name": "හස තනිදු වර නෙ ති",
+  "poet": "එඩ්මන්ඩ් පීරිස්",
+  "line": "එපුර විල් කල්බඳුන් එකයු ති",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 23,
+  "poem_name": "මුහුල'ත් තඹුරු වින්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "මුහුල'ත් තඹුරු වින්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "මුහුල'ත් තඹුරු වින්",
+  "meaning_of_metaphorical_terms": "අත් නැමැති පියුම්"
+ },
+ {
+  "poem_index": 23,
+  "poem_name": "මුහුල'ත් තඹුරු වින්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දනන'ඟනන් වුවන් සඳ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "දනන'ඟනන් වුවන් සඳ",
+  "meaning_of_metaphorical_terms": "අඟනන් වුවන් සඳ"
+ },
+ {
+  "poem_index": 23,
+  "poem_name": "මුහුල'ත් තඹුරු වින්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සමහර දිසි පියුම් රා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 23,
+  "poem_name": "මුහුල'ත් තඹුරු වින්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "මිණි මැඳුරු සී මැදුරේ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 24,
+  "poem_name": "පමා දෙනෙ ඉසුරෝ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "පමා දෙනෙ ඉසුරෝ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "පමා දෙනෙ ඉසුරෝ",
+  "meaning_of_metaphorical_terms": "කාන්තා ජනයෝ තුමූ ඊශ්වරයෝ යැ"
+ },
+ {
+  "poem_index": 24,
+  "poem_name": "පමා දෙනෙ ඉසුරෝ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "එපුරැ කෙලෙස් නිවෙස්නෙන්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 24,
+  "poem_name": "පමා දෙනෙ ඉසුරෝ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "නළා දළැ සඳ බැඳමෙන්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 24,
+  "poem_name": "පමා දෙනෙ ඉසුරෝ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "බුජඟුනු'රෙහි වැලැඳමෙන්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 25,
+  "poem_name": "දුනු රුපුන්'ඹුවන්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දුනු රුපුන්'ඹුවන්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 25,
+  "poem_name": "දුනු රුපුන්'ඹුවන්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "මන කෙතැ ඔහු තෙද බිජුන",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "මන කෙතැ",
+  "meaning_of_metaphorical_terms": "සිතුවිලි නැමැති කෙත"
+ },
+ {
+  "poem_index": 25,
+  "poem_name": "දුනු රුපුන්'ඹුවන්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සිතුවිලි ළදලියේ රත්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "සිතුවිලි ළදලියේ",
+  "meaning_of_metaphorical_terms": "සිතුවිලි නැමැති තරුණ වැලෙහි"
+ },
+ {
+  "poem_index": 25,
+  "poem_name": "දුනු රුපුන්'ඹුවන්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "නුවනත දෙපෙති හැඟැවී",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 26,
+  "poem_name": "මඬුතු එ සත් සර",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "මඬුතු එ සත් සර",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 26,
+  "poem_name": "මඬුතු එ සත් සර",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දිය අග තෙද'ග මඬලින්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "තෙද'ග මඬලින්",
+  "meaning_of_metaphorical_terms": "තේජස නැමැති ගිණි මඩුල්ලෙන්"
+ },
+ {
+  "poem_index": 26,
+  "poem_name": "මඬුතු එ සත් සර",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සුර ගඟ සිද'සර කැන්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 26,
+  "poem_name": "මඬුතු එ සත් සර",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "විහිටි සන හන්නසින",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 27,
+  "poem_name": "පැදුම්හි රුපුවමි",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "පැදුම්හි රුපුවමි",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 27,
+  "poem_name": "පැදුම්හි රුපුවමි",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "යන් පැලැඹෙතො'හු තෙද ගිම්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "තෙද ගිම්",
+  "meaning_of_metaphorical_terms": "තේජස නැමැති ග්‍රීෂ්මය"
+ },
+ {
+  "poem_index": 27,
+  "poem_name": "පැදුම්හි රුපුවමි",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "තන හස පුඬු තුඬු තබා",
+  "metaphor_availability": "yes",
+  "metaphor_count": 2,
+  "metaphorical_terms": "තන හස, පුඬු තුඬු",
+  "meaning_of_metaphorical_terms": "තන හස(පියවුරු නැමැති හංසයෝ)\nපුඬු තුඬු(පුඩු නැමැති තුඩු)"
+ },
+ {
+  "poem_index": 27,
+  "poem_name": "පැදුම්හි රුපුවමි",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "උරවිල් කුමුටු වන් වූ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "උරවිල් ",
+  "meaning_of_metaphorical_terms": "ළය නැමැති විල"
+ },
+ {
+  "poem_index": 28,
+  "poem_name": "නුවනු'පුල් වුවන්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "නුවනු'පුල් වුවන්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "නුවනු'පුල්",
+  "meaning_of_metaphorical_terms": "ඇස් නැමැති මානෙල්"
+ },
+ {
+  "poem_index": 28,
+  "poem_name": "නුවනු'පුල් වුවන්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "පියුම් වරල් බමර රිළු",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "වරල් බමර රිළු",
+  "meaning_of_metaphorical_terms": "කෙස් වැටි නැමැති බිඟු රළ"
+ },
+ {
+  "poem_index": 28,
+  "poem_name": "නුවනු'පුල් වුවන්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "අවුල් මත වර'ඟනන්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 28,
+  "poem_name": "නුවනු'පුල් වුවන්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "මහ විල් සදිසි වන්නා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 29,
+  "poem_name": "අබරණ මිහි වම්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "අබරණ මිහි වම්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "මිහි වම්",
+  "meaning_of_metaphorical_terms": "පොළොව නැමැති කත"
+ },
+ {
+  "poem_index": 29,
+  "poem_name": "අබරණ මිහි වම්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "එක් ලක් නුවන් සඳ කතට",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 29,
+  "poem_name": "අබරණ මිහි වම්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "නව මේ රජ වජඹනා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 29,
+  "poem_name": "අබරණ මිහි වම්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සිත් මියුරනට රස දත් ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 30,
+  "poem_name": "පහා සරි වමිය",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "පහා සරි වමිය",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "පහා සරි වමිය",
+  "meaning_of_metaphorical_terms": "ප්‍රාසාද නැමැති ශ්‍රී කාන්තාවගේ"
+ },
+ {
+  "poem_index": 30,
+  "poem_name": "පහා සරි වමිය",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "කොකුම'ද පින් පියොවුරෙ'ව්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 30,
+  "poem_name": "පහා සරි වමිය",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "පැහැ සර සොමි පියුම්රා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 30,
+  "poem_name": "පහා සරි වමිය",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "මිණි වැණිනි නෙත් බදනා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 31,
+  "poem_name": "අසෙනිය මල් තරු",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "අසෙනිය මල් තරු",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "අසෙනිය මල් තරු",
+  "meaning_of_metaphorical_terms": "පුද කුසුම් නැමැති තාරකා"
+ },
+ {
+  "poem_index": 31,
+  "poem_name": "අසෙනිය මල් තරු",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "විමල් ඉදුනිල් මිණිතල",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "විමල් ඉදුනිල් මිණිතල ගුවනැ",
+  "meaning_of_metaphorical_terms": "නිමල ඉන්ද්‍රනීල මනතලා නැමැති අහස"
+ },
+ {
+  "poem_index": 31,
+  "poem_name": "අසෙනිය මල් තරු",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ගුවනැ සින'සන සරා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 31,
+  "poem_name": "අසෙනිය මල් තරු",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සිසි බිඹු සොමි මමන්නා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 32,
+  "poem_name": "පබවත වත සැක",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "පබවත වත සැක",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 32,
+  "poem_name": "පබවත වත සැක",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සඳ තෙර නොපතෙ'සමාහ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 32,
+  "poem_name": "පබවත වත සැක",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දිලී ගිම් රිවි නළ මෙන්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 32,
+  "poem_name": "පබවත වත සැක",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "නුබ රඟැ හුතැස් වෙස් ගත්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "නුබ රඟැ",
+  "meaning_of_metaphorical_terms": "අහස නැමැති රංගය"
+ },
+ {
+  "poem_index": 33,
+  "poem_name": "ගසත නළල් තව",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ගසත නළල් තව",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 33,
+  "poem_name": "ගසත නළල් තව",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "හිරු විදල් තුරු හිදල්හි",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "විදල් තුරු හිදල්හි",
+  "meaning_of_metaphorical_terms": "පත්‍ර රහිත ගස් නැමැති ඉදලින්"
+ },
+ {
+  "poem_index": 33,
+  "poem_name": "ගසත නළල් තව",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සේ සේ වැයිරි නැඟ එව්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 33,
+  "poem_name": "ගසත නළල් තව",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සිරු හඬ ගත් දෙරණ ගත්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 34,
+  "poem_name": "දිය සුන් හෝ මහ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දිය සුන් හෝ මහ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 34,
+  "poem_name": "දිය සුන් හෝ මහ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "වද විල් මුළු ලෝ කුරිරූ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 34,
+  "poem_name": "දිය සුන් හෝ මහ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ගිමන්හු පැන් මී බුත්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "පැන් මී",
+  "meaning_of_metaphorical_terms": "ජලය නැමැති මධුව"
+ },
+ {
+  "poem_index": 34,
+  "poem_name": "දිය සුන් හෝ මහ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සහ-ඔඩම්-තැටි තටු එම්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 35,
+  "poem_name": "බුන් දළ හර හැලි",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "බුන් දළ හර හැලි",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 35,
+  "poem_name": "බුන් දළ හර හැලි",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "තන රන් බෙයද මඬලින්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "තන රන් බෙයද මඬලින්",
+  "meaning_of_metaphorical_terms": "පියොවුරු නැමැති රන් ගිරි මඩුල්ල"
+ },
+ {
+  "poem_index": 35,
+  "poem_name": "බුන් දළ හර හැලි",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "අඟරා ගුරු තවර නෑ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 35,
+  "poem_name": "බුන් දළ හර හැලි",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දෙනෙ වන් කලුන් තුනු විල්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 36,
+  "poem_name": "දලදරහු ගිම් සොයත්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දලදරහු ගිම් සොයත්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 36,
+  "poem_name": "දලදරහු ගිම් සොයත්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දලවනැ'දිරි දෙත් ලෙළ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 36,
+  "poem_name": "දලදරහු ගිම් සොයත්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දල රොනෙ'ව් කබබ පෙළ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 36,
+  "poem_name": "දලදරහු ගිම් සොයත්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දල විදු පෙණෙහෙලි මුත්",
+  "metaphor_availability": "yes ",
+  "metaphor_count": 1,
+  "metaphorical_terms": "දල විදු පෙණෙහෙලි",
+  "meaning_of_metaphorical_terms": "දැල්වෙන විදුලිය නැමැති ගිනි"
+ },
+ {
+  "poem_index": 37,
+  "poem_name": "කබල කෙළෙ පියුම්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "කබල කෙළෙ පියුම් - වන මේ ගජ විදු පොරොදු",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "මේ ගජ",
+  "meaning_of_metaphorical_terms": "මේඝ නැමැති හස්ති තෙම"
+ },
+ {
+  "poem_index": 37,
+  "poem_name": "කබල කෙළෙ පියුම්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දෙව් දුනු පට කොක් පෙළ - දළ පොද මද ගුම් ගිගුම්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 2,
+  "metaphorical_terms": "කොක් පෙළ දළ, මද ගුම් ගිගුම්",
+  "meaning_of_metaphorical_terms": "කොක් පෙළ දළ (කොක් පෙළ නැමැති දළ),\nමද ගුම් ගිගුම් (මේඝ නාද නැමැති ගර්ජනා)"
+ },
+ {
+  "poem_index": 38,
+  "poem_name": "නන් ලිය පෙළ ලෙළ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "නන් ලිය පෙළ ලෙළ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 38,
+  "poem_name": "නන් ලිය පෙළ ලෙළ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ගන කල්හු දැක්මෙන් මත්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 38,
+  "poem_name": "නන් ලිය පෙළ ලෙළ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "කිසල'න් වටා නටමින්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "කිසල'න්",
+  "meaning_of_metaphorical_terms": "දළු වැනි අත්"
+ },
+ {
+  "poem_index": 38,
+  "poem_name": "නන් ලිය පෙළ ලෙළ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "බිඟු ගී නඟා කන් ගත්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 39,
+  "poem_name": "වී මුව හමු සරා",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "වී මුව හමු සරා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 39,
+  "poem_name": "වී මුව හමු සරා",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ඉසි පබළ වැල ඉඳු සැවූ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "පබළ වැල ඉඳු සැවූ",
+  "meaning_of_metaphorical_terms": "ප්‍රවාල ලතා නැමැති ඉන්ද්‍ර චාප ඇති"
+ },
+ {
+  "poem_index": 39,
+  "poem_name": "වී මුව හමු සරා",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "පොද රළ වැළ කොක් සක්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 2,
+  "metaphorical_terms": "පොද රළ වැළ, කොක් සක්",
+  "meaning_of_metaphorical_terms": "පොද රළ වැළ(වැසි පොද නැමැති තරඟ පෙළ)\nකොක් සක්(කොකුන් නැමැති ශංඛ පංක්ති)"
+ },
+ {
+  "poem_index": 39,
+  "poem_name": "වී මුව හමු සරා",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "පෙළ ගුම් ගොස් ගත මුහුදු",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "ගුම් ගොස් ගත මුහුදු",
+  "meaning_of_metaphorical_terms": "ගර්ජනා නැමැති සමුද්‍ර ඝෝෂ"
+ },
+ {
+  "poem_index": 40,
+  "poem_name": "ගොසෙ'නරනිදු සඳු",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ගොසෙ'නරනිදු සඳු",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "නරනිදු සඳු",
+  "meaning_of_metaphorical_terms": "නරනිඳු නැමැති සඳු"
+ },
+ {
+  "poem_index": 40,
+  "poem_name": "ගොසෙ'නරනිදු සඳු",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "යා දසනෙන් මුහුලු කැරැ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 40,
+  "poem_name": "ගොසෙ'නරනිදු සඳු",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "අත් තඹර දිනෙ'වදන්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "අත් තඹර",
+  "meaning_of_metaphorical_terms": "අත් නැමැති නෙළුම්"
+ },
+ {
+  "poem_index": 40,
+  "poem_name": "ගොසෙ'නරනිදු සඳු",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සිරි පස් කැන් පළදනා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 41,
+  "poem_name": "පියන් නුවන් පැහැ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "පියන් නුවන් පැහැ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "පියන් නුවන් පැහැ තෝ",
+  "meaning_of_metaphorical_terms": "ප්‍රියාවන්ගේ ඇස් පැහැ නැමැති ජලය"
+ },
+ {
+  "poem_index": 41,
+  "poem_name": "පියන් නුවන් පැහැ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "තෝ පිරි මහ වේ ගඟහි",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 41,
+  "poem_name": "පියන් නුවන් පැහැ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "නැඟී නිරිඳු කිරිඳු නැව්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "නිරිඳු කිරිඳු නැව්",
+  "meaning_of_metaphorical_terms": "ඇත් රජ නැමැති නැව"
+ },
+ {
+  "poem_index": 41,
+  "poem_name": "පියන් නුවන් පැහැ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "යෙහෙන් බිහි දොර තෙර පත්",
+  "metaphor_count": 1,
+  "metaphorical_terms": "බිහි දොර තෙර",
+  "meaning_of_metaphorical_terms": "පිටතැ දොරටුව නැමැති ඉවුර"
+ },
+ {
+  "poem_index": 42,
+  "poem_name": "සිත් ගත් සහ බැර",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සිත් ගත් සහ බැර",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 42,
+  "poem_name": "සිත් ගත් සහ බැර",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "බමර'කුරු මුවරද පට",
+  "metaphor_availability": "yes",
+  "metaphor_count": 2,
+  "metaphorical_terms": "බමර'කුරු, මුවරද පට පත්",
+  "meaning_of_metaphorical_terms": "බමර'කුරු(බමරුන් නැමැති අකුරු),\nමුවරද පට පත්(රොන් පටලය නැමැති ලියමන)"
+ },
+ {
+  "poem_index": 42,
+  "poem_name": "සිත් ගත් සහ බැර",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "පත් උයන් කල් පියෙදූ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "උයන් කල්",
+  "meaning_of_metaphorical_terms": "උයන නැමැති අඟන"
+ },
+ {
+  "poem_index": 42,
+  "poem_name": "සිත් ගත් සහ බැර",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "රජ හට රැදී නල දූ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "නල දූ",
+  "meaning_of_metaphorical_terms": "සුළඟ නැමැති දූතයෝ"
+ },
+ {
+  "poem_index": 43,
+  "poem_name": "ගනුතු නරනිඳුහු",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ගනුතු නරනිඳුහු",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 43,
+  "poem_name": "ගනුතු නරනිඳුහු",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "නුඹ පලු මොළොක'ත් තමා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 43,
+  "poem_name": "ගනුතු නරනිඳුහු",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "මී පොද තුටු ඇස් දර",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "මී පොද තුටු ඇස් දර",
+  "meaning_of_metaphorical_terms": "මල් පැණි බිඳු නැමැති සතුටු කඳුළු"
+ },
+ {
+  "poem_index": 43,
+  "poem_name": "ගනුතු නරනිඳුහු",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "කුසුමැ'ස්නි ඔත් තුරු පෙත්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "කුසුමැ'ස්නි",
+  "meaning_of_metaphorical_terms": "මල් නැමැති ඇසින්"
+ },
+ {
+  "poem_index": 44,
+  "poem_name": "ගජ මේ ගැජමෙන්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ගජ මේ ගැජමෙන්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "ගජ මේ",
+  "meaning_of_metaphorical_terms": "ඇත් නැමැති මේඝය"
+ },
+ {
+  "poem_index": 44,
+  "poem_name": "ගජ මේ ගැජමෙන්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සිලිල් තල'තළේ වෙරළු",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 44,
+  "poem_name": "ගජ මේ ගැජමෙන්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දුනු රුවන'කුරු දහස්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 44,
+  "poem_name": "ගජ මේ ගැජමෙන්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සිරි අළ තඹුරු කැකුළින්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 45,
+  "poem_name": "ඉති සිරි සර විල් - කල් බද තරඟතෙ වටා",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ඉති සිරි සර විල් - කල් බද තරඟතෙ වටා",
+  "metaphor_availability": "yes",
+  "metaphor_count": 2,
+  "metaphorical_terms": "විල් කල් බද, තරඟතෙ ",
+  "meaning_of_metaphorical_terms": "විල් කල් බද(තටාක නැමැති කාන්තාව),\nතරඟතෙ(තරඟ නැමැති අත)"
+ },
+ {
+  "poem_index": 45,
+  "poem_name": "ඉති සිරි සර විල් - කල් බද තරඟතෙ වටා",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "නටමින් තට බමර ගී - තඹර මියෙන් ගයා එව්",
+  "metaphor_availability": "no",
+  "metaphor_count": 1,
+  "metaphorical_terms": "බමර ගී ",
+  "meaning_of_metaphorical_terms": "බිඟු හඬ නැමැති ගීත"
+ },
+ {
+  "poem_index": 46,
+  "poem_name": "පබවත දෙවි කොපොල් - පත් සද මුවරද ගෙනැ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "පබවත දෙවි කොපොල් - පත් සද මුවරද ගෙනැ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 46,
+  "poem_name": "පබවත දෙවි කොපොල් - පත් සද මුවරද ගෙනැ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "නොවුන් සරත'ත් ගෙල් කා - මුව පියුමැ'විසි බිඟු පෙළ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "මුව පියුමැ",
+  "meaning_of_metaphorical_terms": "මුහුණ නැමැති පියුම"
+ },
+ {
+  "poem_index": 47,
+  "poem_name": "මෙ දෙසැ මැ මල් සර",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "මෙ දෙසැ මැ මල් සර",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 47,
+  "poem_name": "මෙ දෙසැ මැ මල් සර",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සර ලනුයේ එ බියෙනෙ'ව්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 47,
+  "poem_name": "මෙ දෙසැ මැ මල් සර",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "නො සේ පබවතුන් දෙසේ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 47,
+  "poem_name": "මෙ දෙසැ මැ මල් සර",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ලත තෙමේ නුවන් සර ලත්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "නුවන් සර",
+  "meaning_of_metaphorical_terms": "ඇස නැමැති හීය"
+ },
+ {
+  "poem_index": 48,
+  "poem_name": "නෙත් මිණි කැලුමෙ'වැ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "නෙත් මිණි කැලුමෙ'වැ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "නෙත් මිණි",
+  "meaning_of_metaphorical_terms": "ඇස් නැමැති මැණික්"
+ },
+ {
+  "poem_index": 48,
+  "poem_name": "නෙත් මිණි කැලුමෙ'වැ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සලසා එ ඇගිලි පහස්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 48,
+  "poem_name": "නෙත් මිණි කැලුමෙ'වැ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ලියූ පත් මෙ මුත් හර",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 48,
+  "poem_name": "නෙත් මිණි කැලුමෙ'වැ",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "පිවිතුරු පින් පියොවුරින්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 49,
+  "poem_name": "‍රොන් සහල'ඟ‍රො'ත",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "‍රොන් සහල'ඟ‍රො'ත",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "රොන් සහල'ඟ‍රො",
+  "meaning_of_metaphorical_terms": "‍රොන් නැමැති ගිනි අඟුරු"
+ },
+ {
+  "poem_index": 49,
+  "poem_name": "‍රොන් සහල'ඟ‍රො'ත",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "මල් මලා ලා බිඟු දුම්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "බිඟු දුම්",
+  "meaning_of_metaphorical_terms": "‍බමරු නැමැති ධූමය"
+ },
+ {
+  "poem_index": 49,
+  "poem_name": "‍රොන් සහල'ඟ‍රො'ත",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "විදුනා පලු අත්ලෙන්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 49,
+  "poem_name": "‍රොන් සහල'ඟ‍රො'ත",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ලියනට නො ලි රජ නෙත්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 50,
+  "poem_name": "සිදු කැරැ බොදුනො'ද",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සිදු කැරැ බොදුනො'ද",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 50,
+  "poem_name": "සිදු කැරැ බොදුනො'ද",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දැරැ දැතින'ළ කල නිවෙස්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 50,
+  "poem_name": "සිදු කැරැ බොදුනො'ද",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "උපෑ පෑ එව් නෙත නැව්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "නෙත නැව්",
+  "meaning_of_metaphorical_terms": "නේත්‍ර නැමැති නෞකා"
+ },
+ {
+  "poem_index": 50,
+  "poem_name": "සිදු කැරැ බොදුනො'ද",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ලොබ නෙලෙනැ'ය රූ සයුරු",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "රූ සයුරු",
+  "meaning_of_metaphorical_terms": "රූ නැමැති සයුරු"
+ },
+ {
+  "poem_index": 51,
+  "poem_name": "දඹ දිව්හි හැම'න්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දඹ දිව්හි හැම'න්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 51,
+  "poem_name": "දඹ දිව්හි හැම'න්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "රජ මුහුද ඔද වඩමින්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "රජ මුහුද",
+  "meaning_of_metaphorical_terms": "රජ නැමැති මුහුද"
+ },
+ {
+  "poem_index": 51,
+  "poem_name": "දඹ දිව්හි හැම'න්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "දැවැ ම-සෙන් වැළ මඬුත්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "ම-සෙන් වැළ",
+  "meaning_of_metaphorical_terms": "මාගේ සේනාව නැමැති වෙරළ තීරය"
+ },
+ {
+  "poem_index": 51,
+  "poem_name": "දඹ දිව්හි හැම'න්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "මෙ තගි'සි මුව නොයමු වුව",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 52,
+  "poem_name": "වේ නල ගස් හැනි",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "වේ නල ගස් හැනි",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "වේ නල",
+  "meaning_of_metaphorical_terms": "වේග නැමැති මාරුත"
+ },
+ {
+  "poem_index": 52,
+  "poem_name": "වේ නල ගස් හැනි",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ගජ මේ යුග ගැහැටමෙන්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "ගජ මේ යුග",
+  "meaning_of_metaphorical_terms": "හස්ති නැමැති මේඝ යුග්මය"
+ },
+ {
+  "poem_index": 52,
+  "poem_name": "වේ නල ගස් හැනි",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "ඝන සෙණ රුහිරු දහර",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 52,
+  "poem_name": "වේ නල ගස් හැනි",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "මුතු රැස් පොද පතර පෑ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 53,
+  "poem_name": "සත් පියුම් දද මින්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "සත් පියුම් දද මින්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 53,
+  "poem_name": "සත් පියුම් දද මින්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "හය තරඟ සර බිඟු වැළ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 2,
+  "metaphorical_terms": "හය තරඟ, සර බිඟු වැළ",
+  "meaning_of_metaphorical_terms": "හය තරඟ(අසුන් නැමැති ‍රළ ඇති)\nසර බිඟු වැළ(හී නැමැති ‍බමර පෙළ ඇති)"
+ },
+ {
+  "poem_index": 53,
+  "poem_name": "සත් පියුම් දද මින්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "රණ බිම් විල්හි සෙබළෝ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "රණ බිම් විල්",
+  "meaning_of_metaphorical_terms": "රණ බිම් නැමැති ‍විල්"
+ },
+ {
+  "poem_index": 53,
+  "poem_name": "සත් පියුම් දද මින්",
+  "poet": "දෙවන පරාක්‍රමබාහු රජු",
+  "line": "කග දල දරිනි කෙළියෝ",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "කග දල දරිනි",
+  "meaning_of_metaphorical_terms": "කඩු නැමැති ‍දිය දහරින්"
+ },
+ {
+  "poem_index": 54,
+  "poem_name": "දෙගුරුන් කිරි මුහුද",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "දෙගුරුන් කිරි මුහුද",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "දෙගුරුන් කිරි මුහුද",
+  "meaning_of_metaphorical_terms": "දෙමව්පියන් නැමැති කිරි මුහුද"
+ },
+ {
+  "poem_index": 54,
+  "poem_name": "දෙගුරුන් කිරි මුහුද",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "ඔද කළ සපිරි සඳ ලෙද",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 54,
+  "poem_name": "දෙගුරුන් කිරි මුහුද",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "වැඩෙමින් එ සඳ සොඳ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 54,
+  "poem_name": "දෙගුරුන් කිරි මුහුද",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "සපිරි නව යොවුනෙත් වසන සඳ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 55,
+  "poem_name": "ඒ මැති සත් සයුර",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "ඒ මැති සත් සයුර",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "මැති සත් සයුර",
+  "meaning_of_metaphorical_terms": "ඇමැති නැමැති සත් සයුර"
+ },
+ {
+  "poem_index": 55,
+  "poem_name": "ඒ මැති සත් සයුර",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "පත් නැණ නැවින් පරතෙර",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 55,
+  "poem_name": "ඒ මැති සත් සයුර",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "සිය කුල මැඳුර තුර",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 55,
+  "poem_name": "ඒ මැති සත් සයුර",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "දිලී ගෙමිණක් ලෙසින් පුවතර",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 56,
+  "poem_name": "මෙ මැති සඳ බුහුටි",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "මෙ මැති සඳ බුහුටි",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "මැති සඳ",
+  "meaning_of_metaphorical_terms": "ඇමැති නැමැති සද"
+ },
+ {
+  "poem_index": 56,
+  "poem_name": "මෙ මැති සඳ බුහුටි",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "ලිය නෙත් කැලුම් දැවටී",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "නෙත් කැලුම්",
+  "meaning_of_metaphorical_terms": "නෙත් නැමැති නෙළුම්"
+ },
+ {
+  "poem_index": 56,
+  "poem_name": "මෙ මැති සඳ බුහුටි",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "කොපුලතෙහි පිහිටී",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 56,
+  "poem_name": "මෙ මැති සඳ බුහුටි",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "විලස දැළි රොද පෙනිණි සතුටී",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 57,
+  "poem_name": "උදා මෙ මැතිඳු සඳ",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "උදා මෙ මැතිඳු සඳ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 57,
+  "poem_name": "උදා මෙ මැතිඳු සඳ",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "යස රැස් පැතිර යන සඳ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 57,
+  "poem_name": "උදා මෙ මැතිඳු සඳ",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "රුප'ඹු නෙත් නිමිසඳ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 57,
+  "poem_name": "උදා මෙ මැතිඳු සඳ",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "වැහිණි අනුබඳ කඳුළු පිනි සෙද",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "කඳුළු පිනි",
+  "meaning_of_metaphorical_terms": "කඳුළු නැමැති පිනි"
+ },
+ {
+  "poem_index": 58,
+  "poem_name": "දෙව් ලොවට වඩමින්",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "දෙව් ලොවට වඩමින්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 58,
+  "poem_name": "දෙව් ලොවට වඩමින්",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "සුරන් හට බණ දෙසමින්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 58,
+  "poem_name": "දෙව් ලොවට වඩමින්",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "මොක් සිරි අම දෙමින්",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "මොක් සිරි අම",
+  "meaning_of_metaphorical_terms": "මෝක්ෂය නැමැති ශ්‍රී අමුර්තය"
+ },
+ {
+  "poem_index": 58,
+  "poem_name": "දෙව් ලොවට වඩමින්",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "එයින් යළි නර ලොවට වඩිමින්",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 59,
+  "poem_name": "දහම් වැසි වස්වා",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "දහම් වැසි වස්වා",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "දහම් වැසි",
+  "meaning_of_metaphorical_terms": "ධර්මය නැමැති වර්ෂාව"
+ },
+ {
+  "poem_index": 59,
+  "poem_name": "දහම් වැසි වස්වා",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "සත මොක් මඟ සලස්වා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 59,
+  "poem_name": "දහම් වැසි වස්වා",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "දුසිරි සිත නස්වා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 59,
+  "poem_name": "දහම් වැසි වස්වා",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "අවා යන මඟ අකුල් වස්වා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 60,
+  "poem_name": "එකුමරු නිල් නෙත් කැන් බිඟු යුවළා",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "එකුමරු නිල් නෙත් කැන් බිඟු යුවළා",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "නෙත් කැන් බිඟු",
+  "meaning_of_metaphorical_terms": "ඇස් නැමැති බමරු"
+ },
+ {
+  "poem_index": 60,
+  "poem_name": "එකුමරු නිල් නෙත් කැන් බිඟු යුවළා",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "ඇ සොඳුරු උවනත දිසි පිපි කමලා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 60,
+  "poem_name": "එකුමරු නිල් නෙත් කැන් බිඟු යුවළා",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "පියකරු ලෙස පිහිටා ලොමු'දැහැලා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 60,
+  "poem_name": "එකුමරු නිල් නෙත් කැන් බිඟු යුවළා",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "අමයුරු කොට ඇසූ මෙලෙසින් තෙපලා",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 61,
+  "poem_name": "යළි කුමරිඳු දිලිය",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "යළි කුමරිඳු දිලිය",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 61,
+  "poem_name": "යළි කුමරිඳු දිලිය",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "දිගු නිල් වරල් සෙවෙලිය",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "දිගු නිල් වරල් සෙවෙලිය",
+  "meaning_of_metaphorical_terms": "නිල් දිග වරල නැමැති සෙවෙල"
+ },
+ {
+  "poem_index": 61,
+  "poem_name": "යළි කුමරිඳු දිලිය",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "නෙතු යුග නිලුපුලිය",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "නෙතු යුග නිලුපුලිය",
+  "meaning_of_metaphorical_terms": "ඇස් දෙක නැමැති මහනෙල්"
+ },
+ {
+  "poem_index": 61,
+  "poem_name": "යළි කුමරිඳු දිලිය",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "පහස සපිරුණ දලින් බැබළිය",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 62,
+  "poem_name": "ලවන් රතු උපුලිය",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "ලවන් රතු උපුලිය",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "ලවන් රතු උපුලිය",
+  "meaning_of_metaphorical_terms": "තොල් නැමැති රතු මහනෙල්"
+ },
+ {
+  "poem_index": 62,
+  "poem_name": "ලවන් රතු උපුලිය",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "දසන් කොඳ පෙළිනුදුලිය",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 62,
+  "poem_name": "ලවන් රතු උපුලිය",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "තන රහ හස දිලිය",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "තන රහ හස",
+  "meaning_of_metaphorical_terms": "පියොවුර නැමැති රන් හංසයා"
+ },
+ {
+  "poem_index": 62,
+  "poem_name": "ලවන් රතු උපුලිය",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "උවන දිසි පිපි කුසුම් ළකලිය",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ },
+ {
+  "poem_index": 63,
+  "poem_name": "බුදු සසුන'ඹර මැද",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "බුදු සසුන'ඹර මැද",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "බුදු සසුන'ඹර",
+  "meaning_of_metaphorical_terms": "බුද්ධ ශාසනය නැමැති අහස"
+ },
+ {
+  "poem_index": 63,
+  "poem_name": "බුදු සසුන'ඹර මැද",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "රහත් සඟ තුරු පෙළ මැද",
+  "metaphor_availability": "yes",
+  "metaphor_count": 1,
+  "metaphorical_terms": "රහත් සඟ තුරු පෙළ",
+  "meaning_of_metaphorical_terms": "රහත් සංඝයා වහන්සේලා නැමැති වෘක්ෂ පන්තිය"
+ },
+ {
+  "poem_index": 63,
+  "poem_name": "බුදු සසුන'ඹර මැද",
+  "poet": "සුනිල් ආරියරත්න",
+  "line": "විලසින් සපිරි සඳ",
+  "metaphor_availability": "no",
+  "metaphor_count": 0
+ }
+]

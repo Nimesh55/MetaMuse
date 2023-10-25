@@ -1,0 +1,109 @@
+{
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "sinhala_analyzer": {
+          "type": "custom",
+          "tokenizer": "icu_tokenizer",
+          "char_filter": [
+            "punctuation_char_filter"
+          ]
+        },
+        "sinhala_search_analyzer": {
+          "type": "custom",
+          "tokenizer": "standard",
+          "char_filter": [
+            "punctuation_char_remove_filter"
+          ]
+        },
+        "plain" : {
+          "filter" : [],
+          "tokenizer" : "standard"
+        },
+        "case_insensitive" : {
+          "filter" : ["lowercase"],
+          "tokenizer" : "standard"
+        },
+        "inflections" : {
+          "filter" : ["porter_stem"],
+          "tokenizer" : "standard"
+        },
+        "case_insensitive_and_inflections" : {
+          "filter" : ["lowercase", "porter_stem"],
+          "tokenizer" : "standard"
+        }
+      },
+      "char_filter": {
+        "punctuation_char_filter": {
+          "type": "mapping",
+          "mappings": [
+            ".=>",
+            "|=>",
+            "-=>",
+            "_=>",
+            "'=>",
+            "/=>",
+            ",=>"
+          ]
+        },
+        "punctuation_char_remove_filter": {
+          "type": "mapping",
+          "mappings": [
+            ".=>\\u0020",
+            "|=>\\u0020",
+            "-=>\\u0020",
+            "_=>\\u0020",
+            "'=>\\u0020",
+            "/=>\\u0020",
+            ",=>\\u0020"
+          ]
+        }
+      },
+      "filter": {
+        "edge_n_gram_filter": {
+          "type": "edge_ngram",
+          "min_gram": "2",
+          "max_gram": "20",
+          "side": "front"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "poem_index": {
+        "type": "integer"
+      },
+      "poem_name": {
+        "type": "text",
+        "analyzer": "sinhala_analyzer",
+        "search_analyzer": "sinhala_search_analyzer"
+      },
+      "poet": {
+        "type": "text",
+        "analyzer": "sinhala_analyzer",
+        "search_analyzer": "sinhala_search_analyzer"
+      },
+      "line": {
+        "type": "text",
+        "analyzer": "sinhala_analyzer"
+      },
+      "metaphor_availability": {
+        "type": "text",
+        "analyzer": "plain"
+      },
+      "metaphor_count": {
+        "type": "integer"
+      },
+      "metaphorical_terms": {
+        "type": "text",
+        "analyzer": "sinhala_analyzer"
+      },
+      "meaning_of_metaphorical_terms": {
+        "type": "text",
+        "analyzer": "sinhala_analyzer"
+      }
+
+    }
+  }
+}
