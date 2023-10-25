@@ -1,0 +1,86 @@
+.poem-search {
+  margin-top: 40px !important;
+  margin: auto;
+  width: 60%;
+  align-items: center;
+}
+
+.poem-results {
+  list-style-type: disc;
+  padding: 10px;
+}
+
+.poem-list-item {
+  margin-bottom: 10px;
+}
+
+.poem-search-input {
+  width: 100%;
+}
+
+.poem-search-button {
+  margin-top: 10px;
+}
+
+.poem-results {
+  margin-top: 10px;
+}
+
+.poem-list-item {
+  cursor: pointer;
+}
+
+.poet-search {
+  margin-top: 40px !important;
+  margin: auto;
+  width: 60%;
+  align-items: center;
+}
+
+.poet-results {
+  list-style-type: disc;
+  padding: 10px;
+}
+
+.poet-list-item {
+  margin-bottom: 10px;
+}
+
+.poet-search-input {
+  width: 100%;
+}
+
+.poet-search-button {
+  margin-top: 10px;
+}
+
+.poet-results {
+  margin-top: 10px;
+}
+
+.poet-list-item {
+  cursor: pointer;
+}
+
+.metaphor-search {
+  margin-top: 40px !important;
+  margin: auto;
+  width: 80%;
+  align-items: center;
+}
+
+.metaphor-search-input {
+  width: 100%;
+}
+
+.metaphor-search-button {
+  margin-top: 10px;
+}
+
+.metaphor-results {
+  margin-top: 10px;
+}
+
+.metaphor-list-item {
+  cursor: pointer;
+}
